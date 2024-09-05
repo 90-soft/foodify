@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy Policy.
 This privacy policy applies to the Foodify app for mobile devices as a Free service. This service is intended for use "AS IS".
 
 
